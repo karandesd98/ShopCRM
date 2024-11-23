@@ -34,7 +34,7 @@ public class User {
     @Column(name = "IMAGE")
     private String image;
     
-    @Column(name = "ABOUT")
+    @Column(name = "ABOUT") 
     private String about;
 
 
